@@ -1,14 +1,8 @@
-# Kaiserrrrrr
-
 **Full-Stack Developer** · generalist, backend oriented
-
----
 
 *"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."*
 
----
-
-## projects
+## Projects
 
 | project | description | stack |
 |---------|-------------|-------|
@@ -18,12 +12,12 @@
 
 ---
 
-## stack
+## Stack
 
 `javascript` `python` `html` `css` `bash` · `node.js` `express` `mongodb` `npm`
 
 ---
 
-## connect
+## Connect
 
 [github](https://github.com/Kaiserrrrrr)
