@@ -17,7 +17,3 @@
 `javascript` `python` `html` `css` `bash` · `node.js` `express` `mongodb` `npm`
 
 ---
-
-## Connect
-
-[github](https://github.com/Kaiserrrrrr)
