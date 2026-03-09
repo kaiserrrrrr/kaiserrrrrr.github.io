@@ -12,9 +12,9 @@
 
 | project | description | stack |
 |---------|-------------|-------|
-| [project-name](https://github.com/Kaiserrrrrr/repo) | one-line description | `js` `node` |
-| [project-name](https://github.com/Kaiserrrrrr/repo) | one-line description | `py` `mongo` |
-| [project-name](https://github.com/Kaiserrrrrr/repo) | one-line description | `html` `css` |
+| [project-name](https://github.com/Kaiserrrrrr/cherry) | native, zero-config optimization engine for the modern web | `js` |
+| [project-name](https://github.com/Kaiserrrrrr/blossom) | minimal css framework/theme based on sakura.css | `css` |
+| [project-name](https://github.com/Kaiserrrrrr/aqtive) | LXQt on Arch made effortless | `bash` |
 
 ---
 
