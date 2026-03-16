@@ -12,4 +12,4 @@
 |---------|-------------|-------|
 | [cherry](https://github.com/Kaiserrrrrr/cherry) | native, zero-config optimization engine for the modern web | `js` |
 | [blossom](https://github.com/Kaiserrrrrr/blossom) | minimal css framework/theme based on sakura.css | `css` |
-| [aqtive](https://github.com/Kaiserrrrrr/aqtive) | LXQt on Arch made effortless | `bash` |
+| [aqtive](https://github.com/Kaiserrrrrr/aqtive) | post-archinstall made effortless | `bash` |
