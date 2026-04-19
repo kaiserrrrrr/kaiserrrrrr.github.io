@@ -14,4 +14,3 @@
 | [blossom](https://github.com/Kaiserrrrrr/blossom) | minimal css framework/theme based on sakura.css | `css` |
 | [aqtive](https://github.com/Kaiserrrrrr/aqtive) | post-archinstall made effortless | `bash` |
 
-<style> .site-footer { display: none; } </style>
