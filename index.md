@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 **Full-Stack Developer** · generalist, backend
 
 *"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away." - Antoine de Saint-Exupéry*
@@ -14,3 +18,6 @@
 | [blossom](https://github.com/Kaiserrrrrr/blossom) | minimal css framework/theme based on sakura.css | `css` |
 | [aqtive](https://github.com/Kaiserrrrrr/aqtive) | post-archinstall made effortless | `bash` |
 
+<style>
+  .site-footer { display: none; }
+</style>
