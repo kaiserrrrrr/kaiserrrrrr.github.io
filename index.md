@@ -4,7 +4,7 @@
 
 ## Stack
 
-`javascript` `python` `html` `css` `bash` · `node.js` `npm` `pip` `express` `mongodb`
+`javascript` `python` `html` `css` `bash` · `node.js` `npm` `pip` `express` `mysql` `mongodb`
 
 ## Projects
 
